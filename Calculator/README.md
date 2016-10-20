@@ -15,7 +15,7 @@ e.g input: '(+ 1XY + Y) (- 3X + 2y)
 Code is hard to read:
 
 In order to make the output more readable, I made lot of effort on re-ordering the output from (+ (1 2)) to (1 + 2) etc.
-"So the code looks extremly hard to understand". This is what I got from the department and I will take that as a commendation.
+"So the code looks extremely hard to understand". This is what I got from the department and I will take that as a commendation.
  
 More examples 
 Input: '(+ a + b + c + d + e)  '(+ f + g + h + i + j + k) 
